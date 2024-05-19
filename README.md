@@ -8,4 +8,4 @@ Se desideri migliorare la tua produttività o personalizzare il tuo ambiente vir
 
 Come unico curatore di questo progetto, ti invito a esplorare, sperimentare e, se ti senti ispirato, a condividere le tue modifiche. Ogni contributo è benvenuto e insieme possiamo fare di **ConfiguraZone** una risorsa ancora più ricca e variegata. 💡
 
-Ci si vede nella zona! 
+Ci si vede in zona! 
